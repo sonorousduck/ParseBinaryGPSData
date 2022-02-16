@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GNSSProject>
+   <Producer Name="EZSurv" version="2.102.800"/>
+   <Project Type="Differential">
+      <OrbitFiles>
+         <OrbitFile Uid="60000000" FileName="C:\Users\ryan.anderson\Desktop\ParseBinary\ParseBinary\FirstUsefulRun\EZSurv\1dc00000.orb" Format="Broadcast"/>
+         <OrbitFile Uid="60000001" FileName="C:\Users\ryan.anderson\Desktop\ParseBinary\ParseBinary\FirstUsefulRun\EZSurv\1dc00001.orb" Format="Broadcast"/>
+      </OrbitFiles>
+      <RoverFiles>
+         <RoverFile FileName="C:\Users\ryan.anderson\Desktop\ParseBinary\ParseBinary\FirstUsefulRun\SecondRun.bin" RoverType="Kinematic" DataInterval="1.00">
+            <Id Uid="50000000" Name="SECONDRUN"/>
+            <TimeCoverage>
+               <StartTime GPSWeek="2196" GPSSecond="494182.000"/>
+               <EndTime GPSWeek="2196" GPSSecond="495960.000"/>
+            </TimeCoverage>
+            <Antenna Height="0.000" Model="&lt;None&gt;"/>
+         </RoverFile>
+      </RoverFiles>
+      <SiteOccupations>
+      </SiteOccupations>
+      <Sites>
+      </Sites>
+      <Baselines>
+      </Baselines>
+      <Trajectories>
+      </Trajectories>
+   </Project>
+</GNSSProject>

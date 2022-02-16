@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreProcessLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PreProcessEvents>
+    <PreProcessEvent Step="None" Type="None" Status="None" GPSWeek="2197" GPSSecond="156059.126" />
+    <PreProcessEvent Step="Broadcast" Type="Success" Status="Imported" GPSWeek="2197" GPSSecond="156059.131" Item="SECONDRUN" ItemProgressCount="1" ItemProgressValue="1" ProviderName="CDDIS" />
+  </PreProcessEvents>
+</PreProcessLog>
